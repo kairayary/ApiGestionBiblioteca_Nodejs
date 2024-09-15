@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "George S. Clason",
+    "nationality": "Estadounidense"
+  },
+  {
+    "id": "e735c058-a93e-47d1-bf3c-13111f96fa03",
+    "name": "Mariam",
+    "nationality": "Spanish"
+  },
+  {
+    "id": "e75161e7-f30f-4d55-b01f-55b9d9017bae",
+    "name": "Gabriel García Márquez",
+    "nationality": "Colombian"
+  },
+  {
+    "id": "ce0741fc-299f-469b-a77f-e100f653467c",
+    "name": "Umberto Eco",
+    "nationality": "Italian"
+  }
+]

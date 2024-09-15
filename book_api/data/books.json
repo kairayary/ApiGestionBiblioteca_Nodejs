@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "El hombre más rico de Babilonia",
+    "author": "George S. Clason",
+    "publisher": "Penguin Random House",
+    "year": 1926,
+    "genre": "Autoayuda, Finanzas"
+  },
+  {
+    "id": "03c16e6b-aa3d-47df-882e-944c5ed68d30",
+    "title": "The Great Gastsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "year": 1925
+  },
+  {
+    "id": "815be03a-9198-4db5-941a-71d9dcb7c0ae",
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "year": 1949
+  },
+  {
+    "id": "97fcbf94-93d6-4a18-9fa7-49666f80dc7c",
+    "title": "Cien años de Soledad",
+    "author": "Gabriel García Márquez",
+    "publisher": "Sudamericana",
+    "year": 1967
+  },
+  {
+    "id": "6712d033-961e-4829-8f9c-8c186333a4ac",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "publisher": "Ediciones B",
+    "year": 1965
+  }
+]
