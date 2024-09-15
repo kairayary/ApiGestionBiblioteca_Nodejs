@@ -26,14 +26,14 @@ El servidor acepta varios comandos para interactuar con la biblioteca:
 El cliente permite al usuario elegir entre varios comandos, que se envían al servidor para su procesamiento.
 Los comandos son:
 
--GET BOOKS: Muestra la lista de libros en la biblioteca.
--ADD BOOK: Permite agregar un libro, solicitando información como título, autor, editorial y año.
--GET AUTHORS: Muestra la lista de autores.
--ADD AUTHOR: Permite agregar un nuevo autor con nombre y nacionalidad.
--FIND AUTHOR: Busca autores por nombre o nacionalidad.
--GET PUBLISHERS: Muestra la lista de editoriales.
--ADD PUBLISHER: Permite agregar una nueva editorial, solicitando nombre y país.
--SALIR: Desconecta al cliente del servidor y finaliza el programa.
+-1 ó GET BOOKS: Muestra la lista de libros en la biblioteca.
+-2 ó ADD BOOK: Permite agregar un libro, solicitando información como título, autor, editorial y año.
+-3 ó GET AUTHORS: Muestra la lista de autores.
+-4 ó ADD AUTHOR: Permite agregar un nuevo autor con nombre y nacionalidad.
+-5 ó FIND AUTHOR: Busca autores por nombre o nacionalidad.
+-6 ó GET PUBLISHERS: Muestra la lista de editoriales.
+-7 ó ADD PUBLISHER: Permite agregar una nueva editorial, solicitando nombre y país.
+-8 ó SALIR: Desconecta al cliente del servidor y finaliza el programa.
 
 ##### Flujo de trabajo
 
